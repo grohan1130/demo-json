@@ -1,0 +1,424 @@
+{
+  "audiences": [
+    {
+      "personaQuotes": [
+        "If I see 10 people on TikTok recommend a K-brand toner, I may give it a try after looking into it. — Kate Speights, 30 years old",
+        "Neutrogena in the past, but no favorites. — Baochi",
+        "People take more time to invest in and celebrate their skin — doing the best at home is trending up more than fillers or Botox. — Tara"
+      ],
+      "shoppingBehavior": {
+        "topRetailers": [
+          {
+            "name": "Amazon",
+            "index": 480
+          },
+          {
+            "name": "Target",
+            "index": 362
+          },
+          {
+            "name": "Sephora",
+            "index": 419
+          },
+          {
+            "name": "Sam’s Club",
+            "index": 256
+          },
+          {
+            "name": "Ulta",
+            "index": 237
+          },
+          {
+            "index": 138,
+            "name": "Kohl’s"
+          }
+        ],
+        "purchaseInfluences": [
+          {
+            "index": 133,
+            "text": "Friends / Family"
+          },
+          {
+            "index": 132,
+            "text": "Online Info / Recommendations"
+          },
+          {
+            "index": 129,
+            "text": "GP / Doctor / Pharmacist"
+          }
+        ],
+        "shoppingBehaviors": [
+          {
+            "index": 226,
+            "text": "Personal Care New Product Seeker"
+          },
+          {
+            "index": 250,
+            "text": "Heavy Couponing"
+          },
+          {
+            "index": 220,
+            "text": "Brand Loyalist"
+          },
+          {
+            "text": "Stocks Up",
+            "index": 210
+          },
+          {
+            "text": "Online Savings",
+            "index": 178
+          },
+          {
+            "text": "Purpose-Driven Consumer",
+            "index": 227
+          }
+        ],
+        "purchaseSources": {
+          "Mass Merchandisers": "22%",
+          "Subscriptions": "38%",
+          "Big Box": "37%",
+          "Grocery Stores": "27%",
+          "Department Stores": "39%",
+          "Specialty Stores": "21%",
+          "Direct to Consumer": "49%",
+          "Online": "21%",
+          "Essentials Stores": "29%"
+        }
+      },
+      "keyInfluencersIFollow": [
+        {
+          "platforms": [
+            "TikTok",
+            "Instagram",
+            "YouTube"
+          ],
+          "name": "Chris Olsen",
+          "followers": "8.2M",
+          "index": 182,
+          "handle": "@chris"
+        },
+        {
+          "index": 174,
+          "followers": "6.4M",
+          "platforms": [
+            "Instagram",
+            "TikTok"
+          ],
+          "handle": "@katstickler",
+          "name": "Kat Stickler"
+        },
+        {
+          "name": "Dr. Muneeb Shah",
+          "handle": "@doctorly",
+          "index": 205,
+          "followers": "14.8M",
+          "platforms": [
+            "TikTok",
+            "Instagram",
+            "YouTube"
+          ]
+        }
+      ],
+      "imageDescription": "A woman with clear skin looking slightly upward, representing a confident and trend-aware beauty consumer in the USA.",
+      "size": "6.1MM",
+      "description": "A group of beauty-focused consumers who enjoy experimenting with products, staying informed through digital channels, and shopping across multiple retail formats. They are highly engaged, brand-loyal, and influenced by social media trends and peer recommendations.",
+      "market": "USA",
+      "name": "Beauty Enthusiasts (Chloe)",
+      "interestsAndPropensities": {
+        "fitness": [
+          "Home Gym",
+          "Internet Connected Fitness",
+          "Yoga/Pilates",
+          "Running/Jogging"
+        ],
+        "skincareConcerns": [
+          "Acne",
+          "Hydration/Vitality",
+          "Resilience/Protection",
+          "Renewal"
+        ],
+        "entertainment": [
+          "Concerts",
+          "Cultural Arts",
+          "Pro Football",
+          "Women’s Soccer"
+        ],
+        "luxury": [
+          "Luxury Vehicles",
+          "Salon Services",
+          "Fine Dining",
+          "Spas"
+        ],
+        "travel": [
+          "International",
+          "Airline Rewards",
+          "Hotel Rewards",
+          "Road Trips",
+          "Ride Share"
+        ]
+      },
+      "demographics": {
+        "collegeGraduate": "57%",
+        "ageDistribution": {
+          "Gen X": "36%",
+          "Gen Z": "20%",
+          "Millennials": "32%",
+          "Boomers": "13%"
+        },
+        "kids": "57%",
+        "gender": "72% Women",
+        "incomeOver250k": "28%",
+        "married": "61%",
+        "ethnicity": {
+          "African American": "4%",
+          "Hispanic": "9%"
+        }
+      },
+      "categoryBrandsIBuy": [
+        "Clinique",
+        "Thrive",
+        "Estee Lauder",
+        "Pacifica",
+        "Ordinary",
+        "Peter Thomas Roth",
+        "Philosophy",
+        "Kiehl’s",
+        "First Aid Beauty",
+        "Paula’s Choice",
+        "Supergoop",
+        "La Roche Posay",
+        "CeraVe"
+      ],
+      "omnichannel": {
+        "shared": [
+          "Social Media Ad Influenced Purchasers",
+          "Shopping Video",
+          "IG Content Engagement"
+        ],
+        "paid": [
+          "Streaming & Cable Subscriptions",
+          "Live Streaming Purchases",
+          "Instagram",
+          "Snapchat",
+          "Online Magazines"
+        ],
+        "owned": [
+          "Retailer Email Subscribers",
+          "Email Engagement"
+        ]
+      }
+    },
+    {
+      "description": "Experienced skincare consumers who actively seek out anti-aging solutions and are loyal to dermatologist-recommended brands. They are well-informed, compare product performance, and value clinical efficacy and trust in their skincare routines.",
+      "categoryBrandsIBuy": [
+        "Clinique",
+        "Thrive",
+        "Estee Lauder",
+        "Ordinary",
+        "Pacifica",
+        "Peter Thomas Roth",
+        "Philosophy",
+        "Kiehl’s",
+        "First Aid Beauty",
+        "Paula’s Choice",
+        "Supergoop",
+        "Neutrogena",
+        "Neutrogena SunTan",
+        "CeraVe",
+        "La Roche Posay"
+      ],
+      "size": "5.6MM",
+      "omnichannel": {
+        "owned": [
+          "Retailer Email Subscribers",
+          "Email Engagement"
+        ],
+        "paid": [
+          "Streaming & Cable Subscribers",
+          "Instagram",
+          "Snapchat",
+          "Premium Cable TV",
+          "On Demand",
+          "Live Streaming Purchases",
+          "Online Magazine Newspapers"
+        ],
+        "shared": [
+          "Social Media Ad Influenced Purchasers",
+          "Shopping Video"
+        ]
+      },
+      "name": "Competitive Anti-Aging Buyers",
+      "interestsAndPropensities": {
+        "luxury": [
+          "Luxury Vehicles",
+          "Salon Services",
+          "Fine Dining",
+          "Spas"
+        ],
+        "entertainment": [
+          "Concerts",
+          "Cultural Arts",
+          "Pro Football",
+          "Women’s Soccer"
+        ],
+        "fitness": [
+          "Home Gym",
+          "Extreme Fitness",
+          "Yoga/Pilates",
+          "Internet Connected Fitness"
+        ],
+        "skincareConcerns": [
+          "Anti-Aging",
+          "Hydration",
+          "Resilience/Protection",
+          "Renewal"
+        ],
+        "travel": [
+          "International",
+          "Airline Rewards",
+          "Hotel Rewards",
+          "Road Trips",
+          "Ride Share"
+        ]
+      },
+      "imageDescription": "A woman in a towel and bathrobe applying skincare, representing a confident, skincare-savvy beauty consumer focused on anti-aging.",
+      "demographics": {
+        "incomeOver250k": "27%",
+        "kids": "51%",
+        "ageDistribution": {
+          "Gen X": "34%",
+          "Boomers": "19%",
+          "Millennials": "32%",
+          "Gen Z": "15%"
+        },
+        "collegeGraduate": "58%",
+        "married": "62%",
+        "ethnicity": {
+          "African American": "4%",
+          "Hispanic": "9%"
+        },
+        "gender": "73% Women"
+      },
+      "personaQuotes": [
+        "Legacy brands feel old — people don't see themselves in them. Campaigns don't feel like they talk to us. — Jahde Borg Santaella, 29 years old",
+        "The ingredients matter to me. Don't just say derm recommended — if it doesn't work, it doesn't hold weight. — Brooke Monk, 22 years old",
+        "I trust my dermatologist — it gives me peace of mind. It's one less thing to do. — Julia Ferrari Costa, 25 years old"
+      ],
+      "market": "USA",
+      "shoppingBehavior": {
+        "shoppingBehaviors": [
+          {
+            "text": "Brand Loyalist",
+            "index": 237
+          },
+          {
+            "text": "Stocks Up",
+            "index": 236
+          },
+          {
+            "text": "Personal Care New Product Seeker",
+            "index": 230
+          },
+          {
+            "text": "Purpose-Driven Consumer",
+            "index": 224
+          },
+          {
+            "index": 199,
+            "text": "Heavy Couponing"
+          },
+          {
+            "text": "Online Savings",
+            "index": 197
+          }
+        ],
+        "topRetailers": [
+          {
+            "name": "Amazon",
+            "index": 454
+          },
+          {
+            "index": 417,
+            "name": "Sephora"
+          },
+          {
+            "index": 293,
+            "name": "Ulta"
+          },
+          {
+            "index": 318,
+            "name": "Target"
+          },
+          {
+            "index": 222,
+            "name": "Sam’s Club"
+          },
+          {
+            "name": "Macy’s",
+            "index": 140
+          }
+        ],
+        "purchaseSources": {
+          "Department Stores": "38%",
+          "Essentials Stores": "28%",
+          "Grocery Stores": "29%",
+          "Specialty Stores": "22%",
+          "Mass Merchandisers": "23%",
+          "Direct to Consumer": "48%",
+          "Subscriptions": "37%",
+          "Online": "24%",
+          "Big Box": "36%"
+        },
+        "purchaseInfluences": [
+          {
+            "index": 127,
+            "text": "Online Info / Recommendation"
+          },
+          {
+            "text": "Friends / Family",
+            "index": 122
+          },
+          {
+            "index": 116,
+            "text": "GP / Doctor / Pharmacist"
+          }
+        ]
+      },
+      "keyInfluencersIFollow": [
+        {
+          "followers": "54.1M",
+          "platforms": [
+            "TikTok",
+            "Instagram",
+            "YouTube"
+          ],
+          "handle": "@charlidamelio",
+          "index": 170,
+          "name": "Charlie D'Amelio"
+        },
+        {
+          "followers": "15.2M",
+          "name": "Mikayla Nogueira",
+          "index": 286,
+          "handle": "@mikaylajmakeup",
+          "platforms": [
+            "TikTok",
+            "Instagram"
+          ]
+        },
+        {
+          "followers": "93.7M",
+          "index": 186,
+          "platforms": [
+            "TikTok",
+            "Instagram",
+            "YouTube"
+          ],
+          "handle": "@bellapoarch",
+          "name": "Bella Poarch"
+        }
+      ]
+    }
+  ]
+}
+ 

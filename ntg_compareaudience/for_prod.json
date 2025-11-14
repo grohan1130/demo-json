@@ -1,0 +1,1203 @@
+{
+  "audiences": [
+    {
+      "personaQuotes": [
+        "I love trying new beauty products and following influencers who share honest reviews and routines.",
+        "8% of this audience are Gen Z or Millennials who rely on dermatologists."
+      ],
+      "shoppingBehavior": {
+        "topRetailers": [
+          {
+            "name": "Target",
+            "index": 362
+          },
+          {
+            "name": "Sephora",
+            "index": 419
+          },
+          {
+            "name": "Ulta",
+            "index": 237
+          },
+          {
+            "name": "Amazon",
+            "index": 480
+          },
+          {
+            "name": "Sam’s Club",
+            "index": 256
+          },
+          {
+            "name": "Kohl’s",
+            "index": 138
+          }
+        ],
+        "purchaseInfluences": [
+          {
+            "index": 133,
+            "text": "Friends/Family"
+          },
+          {
+            "index": 132,
+            "text": "Online Info/Recommendation"
+          },
+          {
+            "index": 129,
+            "text": "GP/Doctor/Pharmacist"
+          }
+        ],
+        "shoppingBehaviors": [
+          {
+            "index": 226,
+            "text": "Personal Care New Product Seeker"
+          },
+          {
+            "index": 250,
+            "text": "Heavy Couponing"
+          },
+          {
+            "index": 220,
+            "text": "Brand Loyalist"
+          },
+          {
+            "index": 210,
+            "text": "Stocks Up"
+          },
+          {
+            "index": 178,
+            "text": "Online Savings"
+          },
+          {
+            "index": 227,
+            "text": "Purpose-Driven Consumer"
+          }
+        ],
+        "purchaseSources": {
+          "Mass Merchandisers": "226i",
+          "Subscriptions": "386i",
+          "Big Box": "373i",
+          "Grocery Stores": "272i",
+          "Department Stores": "391i",
+          "Specialty Stores": "218i",
+          "Direct to Consumer": "497i",
+          "Online": "219i",
+          "Essentials Stores": "294i"
+        }
+      },
+      "keyInfluencersIFollow": [
+        {
+          "platforms": [
+            "TikTok",
+            "Instagram",
+            "YouTube"
+          ],
+          "name": "Chris Olsen",
+          "followers": "",
+          "index": 182,
+          "handle": "@chris"
+        },
+        {
+          "platforms": [
+            "Instagram",
+            "TikTok",
+            "YouTube"
+          ],
+          "name": "Kat Stickler",
+          "followers": "",
+          "index": 174,
+          "handle": "@katstickler"
+        },
+        {
+          "platforms": [
+            "Instagram",
+            "TikTok",
+            "YouTube"
+          ],
+          "name": "Dr. Muneeb Shah",
+          "followers": "",
+          "index": 205,
+          "handle": "@doctorly"
+        }
+      ],
+      "imageDescription": "A woman with clear skin looking slightly upward, representing a confident and trend-aware beauty consumer in the USA.",
+      "size": "6.1MM",
+      "description": "A 6.1MM audience of confident, high-spending U.S. consumers redefining modern skincare routines. Chloe embraces performance-driven beauty and purposeful consumption, balancing dermatologist-trusted efficacy with influencer inspiration. She engages deeply across streaming, Instagram, and retailer channels, turning digital research into habitual purchase behaviors. Key Audience #1: Anti Aging Habitual Buyers and Buys Neutrogena.",
+      "market": "USA",
+      "name": "Beauty Enthusiasts (Chloe)",
+      "interestsAndPropensities": {
+        "fitness": [
+          "Home Gym (575i)",
+          "Internet Connected Fitness (194i)",
+          "Yoga/Pilates (251i)",
+          "Running/Jogging (241i)"
+        ],
+        "skincareConcerns": [
+          "Acne (124i)",
+          "Hydration/Vitality (164i)",
+          "Resilience/Protection (162i)",
+          "Renewal (162i)"
+        ],
+        "entertainment": [
+          "Concerts (380i)",
+          "Cultural Arts (330i)",
+          "Pro Football (242i)",
+          "Women’s Soccer (189i)"
+        ],
+        "luxury": [
+          "Luxury Vehicles (372i)",
+          "Salon Services (341i)",
+          "Fine Dining (251i)",
+          "Spas (224i)"
+        ],
+        "travel": [
+          "International (189i)",
+          "Airline Rewards (337i)",
+          "Hotel Rewards (305i)",
+          "Road Trips (289i)",
+          "Ride Share (227i)"
+        ]
+      },
+      "demographics": {
+        "collegeGraduate": "57% (151i)",
+        "ageDistribution": {
+          "Gen X": "36% (107i)",
+          "Gen Z": "20% (237i)",
+          "Millennials": "32% (112i)",
+          "Boomers": "13% (43i)"
+        },
+        "kids": "57% (202i)",
+        "gender": "72% Women (137i)",
+        "incomeOver250k": "28% (379i)",
+        "married": "61% (123i)",
+        "ethnicity": {
+          "African American": "4% (56i)",
+          "Hispanic": "9% (83i)"
+        }
+      },
+      "categoryBrandsIBuy": [
+        "Clinique (239i)",
+        "Thrive (232i)",
+        "Estee Lauder (226i)",
+        "Pacifica (225i)",
+        "The Ordinary (216i)",
+        "Peter Thomas Roth (187i)",
+        "Philosophy (197i)",
+        "Kiehl’s (192i)",
+        "First Aid Beauty (168i)",
+        "Paula’s Choice (150i)",
+        "Supergoop (127i)",
+        "La Roche Posay (193i)",
+        "CeraVe (138i)"
+      ],
+      "omnichannel": {
+        "shared": [
+          "Social Media Ad Influenced Purchasers (191i)",
+          "Shopping Video (226i)",
+          "Buys via Instagram (202i)"
+        ],
+        "paid": [
+          "Streaming & Cable Subscriptions (244i)",
+          "Live Streaming Purchases (179i)",
+          "Instagram (233i)",
+          "Snapchat (193i)",
+          "Online Magazines (181i)"
+        ],
+        "owned": [
+          "Retailer Email Subscribers (372i)",
+          "Email Engagement (285i)"
+        ]
+      }
+    },
+    {
+      "description": "A 5.6MM segment of discerning, affluent U.S. beauty consumers balancing innovation and evidence-based skincare. Competitive Anti-Aging Buyers are educated, family-oriented, and highly digital, mixing luxury indulgence with dermatologist-trusted practicality. Their routines are data-informed and habit-driven, favoring established, clinically credible brands and cross-channel retail experiences. Key Audience #2: Occasional Buyers Who Purchase Competitors (RoC, CeraVE, LRP). Total Sales: $7,193,369; % Contribution to Sales: 5%.",
+      "categoryBrandsIBuy": [
+        "Clinique (282i)",
+        "Thrive (279i)",
+        "Estee Lauder (265i)",
+        "Pacifica (251i)",
+        "The Ordinary (267i)",
+        "Peter Thomas Roth (222i)",
+        "Philosophy (212i)",
+        "Kiehl’s (206i)",
+        "First Aid Beauty (195i)",
+        "Paula’s Choice (174i)",
+        "Supergoop (126i)",
+        "Neutrogena (158i)",
+        "Neutrogena SunTan (111i)",
+        "CeraVe (128i)",
+        "La Roche Posay (201i)"
+      ],
+      "size": "5.6MM",
+      "omnichannel": {
+        "owned": [
+          "Retailer Email Subscribers (405i)",
+          "Email Engagement (327i)"
+        ],
+        "paid": [
+          "Streaming & Cable Subscribers (258i)",
+          "Instagram (220i)",
+          "Snapchat (171i)",
+          "Premium Cable TV (259i)",
+          "On Demand (186i)",
+          "Live Streaming Purchasers (160i)",
+          "Buys via Instagram (212i)",
+          "Online Magazine Newspapers (245i)"
+        ],
+        "shared": [
+          "Social Media Ad Influenced Purchasers (166i)",
+          "Shopping Video (219i)"
+        ]
+      },
+      "name": "Competitive Anti-Aging Buyers",
+      "interestsAndPropensities": {
+        "luxury": [
+          "Luxury Vehicles (365i)",
+          "Salon Services (340i)",
+          "Fine Dining (259i)",
+          "Spas (231i)"
+        ],
+        "entertainment": [
+          "Concerts (343i)",
+          "Cultural Arts (315i)",
+          "Pro Football (212i)",
+          "Women’s Soccer (183i)"
+        ],
+        "fitness": [
+          "Home Gym (550i)",
+          "Extreme Fitness (301i)",
+          "Yoga/Pilates (289i)",
+          "Internet Connected Fitness (195i)"
+        ],
+        "skincareConcerns": [
+          "Anti-Aging (117i)",
+          "Hydration (158i)",
+          "Resilience/Protection (139i)",
+          "Renewal (147i)"
+        ],
+        "travel": [
+          "International (195i)",
+          "Airline Rewards (363i)",
+          "Hotel Rewards (304i)",
+          "Road Trips (284i)",
+          "Ride Share (234i)"
+        ]
+      },
+      "imageDescription": "A woman in a towel and bathrobe applying skincare, representing a confident, skincare-savvy beauty consumer focused on anti-aging.",
+      "demographics": {
+        "incomeOver250k": "27% (364i)",
+        "kids": "51% (180i)",
+        "ageDistribution": {
+          "Gen X": "34% (101i)",
+          "Boomers": "19% (63i)",
+          "Millennials": "32% (114i)",
+          "Gen Z": "15% (183i)"
+        },
+        "collegeGraduate": "58% (153i)",
+        "married": "62% (125i)",
+        "ethnicity": {
+          "African American": "4% (50i)",
+          "Hispanic": "9% (83i)"
+        },
+        "gender": "73% Women (138i)"
+      },
+      "personaQuotes": [
+        "I know what works for my skin and I stick with proven brands that deliver results.",
+        "8% of this audience are Gen Z or Millennials who rely on dermatologists."
+      ],
+      "market": "USA",
+      "shoppingBehavior": {
+        "shoppingBehaviors": [
+          {
+            "text": "Personal Care New Product Seeker",
+            "index": 230
+          },
+          {
+            "text": "Heavy Couponing",
+            "index": 199
+          },
+          {
+            "text": "Brand Loyalist",
+            "index": 237
+          },
+          {
+            "text": "Stocks Up",
+            "index": 236
+          },
+          {
+            "text": "Online Savings",
+            "index": 197
+          },
+          {
+            "text": "Purpose-Driven Consumer",
+            "index": 224
+          }
+        ],
+        "topRetailers": [
+          {
+            "name": "Amazon",
+            "index": 454
+          },
+          {
+            "name": "Sephora",
+            "index": 417
+          },
+          {
+            "name": "Ulta",
+            "index": 293
+          },
+          {
+            "name": "Target",
+            "index": 318
+          },
+          {
+            "name": "Nordstrom",
+            "index": 222
+          },
+          {
+            "name": "Macy’s",
+            "index": 140
+          }
+        ],
+        "purchaseSources": {
+          "Department Stores": "384i",
+          "Essentials Stores": "287i",
+          "Grocery Stores": "293i",
+          "Specialty Stores": "221i",
+          "Mass Merchandisers": "231i",
+          "Direct to Consumer": "480i",
+          "Subscriptions": "376i",
+          "Online": "244i",
+          "Big Box": "368i"
+        },
+        "purchaseInfluences": [
+          {
+            "index": 127,
+            "text": "Online Info/Recommendation"
+          },
+          {
+            "index": 122,
+            "text": "Friends/Family"
+          },
+          {
+            "index": 116,
+            "text": "GP/Doctor/Pharmacist"
+          }
+        ]
+      },
+      "keyInfluencersIFollow": [
+        {
+          "followers": "",
+          "platforms": [
+            "Instagram",
+            "TikTok",
+            "YouTube"
+          ],
+          "handle": "@charlidamelio",
+          "index": 170,
+          "name": "Charlie D’Amelio"
+        },
+        {
+          "followers": "",
+          "name": "Mikayla Noguiera",
+          "index": 286,
+          "handle": "@mikaylajmakeup",
+          "platforms": [
+            "Instagram",
+            "TikTok"
+          ]
+        },
+        {
+          "followers": "",
+          "index": 186,
+          "platforms": [
+            "Instagram",
+            "TikTok",
+            "YouTube"
+          ],
+          "handle": "@bellapoarch",
+          "name": "Bella Poarch"
+        }
+      ]
+    },
+    {
+      "personaQuotes": [],
+      "shoppingBehavior": {
+        "topRetailers": [
+          {
+            "name": "Rossmann",
+            "index": 114
+          },
+          {
+            "name": "DM",
+            "index": 112
+          },
+          {
+            "name": "Müller",
+            "index": 84
+          }
+        ],
+        "purchaseInfluences": [
+          {
+            "index": 191,
+            "text": "Social Media Recommendation"
+          },
+          {
+            "index": 108,
+            "text": "Online Reviews"
+          },
+          {
+            "index": 110,
+            "text": "GP/Doctor/Pharmacist"
+          }
+        ],
+        "shoppingBehaviors": [
+          {
+            "index": 159,
+            "text": "Packaging Fanatic"
+          },
+          {
+            "index": 127,
+            "text": "Heavy Couponing"
+          },
+          {
+            "index": 124,
+            "text": "Brand Lover"
+          },
+          {
+            "index": 156,
+            "text": "Sustainability Centric"
+          },
+          {
+            "index": 124,
+            "text": "Innovation Seeker"
+          }
+        ],
+        "purchaseSources": {
+          "Drugstore": "111i",
+          "Grocery Store": "105i",
+          "Discounter": "104i",
+          "Perfume Store": "65i",
+          "Online Direct to Consumer": "61i",
+          "Pharmacy": "59i",
+          "Department Store": "55i",
+          "Stationary": "109i",
+          "Online": "56i"
+        }
+      },
+      "keyInfluencersIFollow": [
+        {
+          "platforms": [
+            "TikTok",
+            "Instagram"
+          ],
+          "name": "Fabien Tietjen",
+          "followers": "",
+          "index": 409,
+          "handle": "@fabiantietjen"
+        },
+        {
+          "platforms": [
+            "TikTok",
+            "Instagram",
+            "YouTube"
+          ],
+          "name": "Anna von Klinski",
+          "followers": "",
+          "index": 176,
+          "handle": "@annavonklinski"
+        },
+        {
+          "platforms": [
+            "TikTok",
+            "Instagram",
+            "YouTube"
+          ],
+          "name": "L.-S Laurent",
+          "followers": "",
+          "index": 426,
+          "handle": "@lisasophielaurent"
+        }
+      ],
+      "imageDescription": "",
+      "size": "14.4MM",
+      "description": "Mass-market entry audience in Germany defined by curiosity, wellness, and digital discovery. She balances fitness, skincare, and mindfulness with value-driven shopping habits, leaning on couponing and sustainability. Guided by short-form content and influencer voices, she experiments with accessible brands across drugstores and online channels. Priority Audience #1: Mass Point of Market Entry.",
+      "market": "Germany",
+      "name": "Point of Market Entry: Laura",
+      "interestsAndPropensities": {
+        "fitness": [
+          "Gym Workout (136i)",
+          "Swimming (169i)",
+          "Skiing (152i)",
+          "Dancing (159i)"
+        ],
+        "skincareConcerns": [
+          "Acne (117i)",
+          "Sensitive Skin (109i)",
+          "Oily Skin (141i)"
+        ],
+        "health": [
+          "Health Conscious (131i)",
+          "Skincare (156i)",
+          "Plant based food (143i)",
+          "Supplements (185i)"
+        ],
+        "webBehavior": [
+          "Researching/Healthcare Products (155i)",
+          "Inspiration Seeking (128i)",
+          "Education & Business (152i)"
+        ],
+        "mindfulness": [
+          "Mental Health (115i)",
+          "Stress relief (131i)",
+          "Meditation (107i)"
+        ]
+      },
+      "demographics": {
+        "collegeGraduate": "High-level education (51%, 109i)",
+        "ageDistribution": {
+          "Gen Z": "12% (110i)",
+          "Millennials": "46% (112i)",
+          "Gen X": "33% (86i)",
+          "Boomers": "9% (93i)"
+        },
+        "kids": "No children (48%, 90i); 1-2 Children (49%, 115i)",
+        "gender": "70% Women (140i)",
+        "incomeOver250k": "> €100K (14%, 146i)",
+        "married": "Single (29%, 86i); Married (43%, 100i)",
+        "ethnicity": {}
+      },
+      "categoryBrandsIBuy": [
+        "Private label (177i)",
+        "Nivea (103i)",
+        "Clinique (122i)",
+        "Diadermine (169i)",
+        "Garnier (114i)",
+        "Loreal Paris (148i)"
+      ],
+      "omnichannel": {
+        "shared": [
+          "Posts or reviews from expert bloggers (186i)",
+          "Customer reviews or word of mouth (132i)"
+        ],
+        "paid": [
+          "Streaming & Cable Subs (185i)",
+          "Short Videos (e.g. Reels, How. Tos ) (244i)",
+          "Instagram (122i)",
+          "Pinterest (289i)",
+          "Online Magazine (251i)"
+        ],
+        "owned": [
+          "Plays a branded game (161i)",
+          "Interacts on social media with a brand (134i)"
+        ]
+      }
+    },
+    {
+      "personaQuotes": [],
+      "shoppingBehavior": {
+        "topRetailers": [
+          {
+            "name": "Flaconi",
+            "index": 221
+          },
+          {
+            "name": "Douglas",
+            "index": 175
+          },
+          {
+            "name": "DM",
+            "index": 109
+          },
+          {
+            "name": "Amazon",
+            "index": 170
+          }
+        ],
+        "purchaseInfluences": [
+          {
+            "index": 117,
+            "text": "Friends/Family"
+          },
+          {
+            "index": 320,
+            "text": "Celebrities & Creator"
+          },
+          {
+            "index": 146,
+            "text": "Samples"
+          },
+          {
+            "index": 129,
+            "text": "Retail Websites"
+          },
+          {
+            "index": 176,
+            "text": "Pharmacists/Dermatologists"
+          }
+        ],
+        "shoppingBehaviors": [
+          {
+            "index": 338,
+            "text": "Innovation Seeker"
+          },
+          {
+            "index": 223,
+            "text": "Trusted Brand Shopper"
+          },
+          {
+            "index": 143,
+            "text": "Brand Loyalist"
+          }
+        ],
+        "purchaseSources": {
+          "Brand Store": "126i",
+          "Direct to Consumer": "142i",
+          "Online Pharmacy": "134i",
+          "Pharmacy": "137i",
+          "Drugstore": "110i",
+          "Grocery Stores": "89i",
+          "Cosmetics Dep./Perfumery": "141i",
+          "Online Retailer": "155i"
+        }
+      },
+      "keyInfluencersIFollow": [
+        {
+          "platforms": [
+            "TikTok",
+            "Instagram",
+            "YouTube"
+          ],
+          "name": "Tara Tabitha",
+          "followers": "",
+          "index": 1035,
+          "handle": "@tamtambeauty"
+        },
+        {
+          "platforms": [
+            "Instagram",
+            "TikTok"
+          ],
+          "name": "Karina Kipp",
+          "followers": "",
+          "index": 369,
+          "handle": "@karina2you"
+        },
+        {
+          "platforms": [
+            "Instagram",
+            "TikTok",
+            "YouTube"
+          ],
+          "name": "Felicia Greipel",
+          "followers": "",
+          "index": 836,
+          "handle": "@videozeugs"
+        }
+      ],
+      "imageDescription": "",
+      "size": "4.1MM",
+      "description": "A 4.1MM digitally connected audience blending wellness, beauty, and lifestyle. They value trusted expertise and social validation, purchasing across e-pharmacy and retail platforms while driving engagement through influencers and brand communities. Key Audience #2: Beauty Enthusiasts, Habitual Buyers of Neutrogena.",
+      "market": "Germany",
+      "name": "Beauty Enthusiasts (Chloe)",
+      "interestsAndPropensities": {
+        "fitness": [
+          "Gym (156i)",
+          "Running (145i)",
+          "Crossfit (156i)",
+          "Dancing (223i)"
+        ],
+        "skincareConcerns": [
+          "Problem skin (acne, etc.) (204i)",
+          "Oily skin (185i)",
+          "Anti-Aging (188i)",
+          "Sensitive Skin (172i)"
+        ],
+        "luxury": [
+          "Fine Dining (176i)",
+          "Designer Fashion (216i)",
+          "Wellness Retreats (293i)"
+        ],
+        "entertainment": [
+          "Concerts (140i)",
+          "Dance Events (240i)",
+          "Theater (144i)",
+          "Urban Art Exhibition (191i)"
+        ],
+        "socialMedia": [
+          "Brand Enthusiasts (329i)",
+          "Fame Followers (309i)",
+          "Network Builders (190i)",
+          "Shoppers (262i)"
+        ]
+      },
+      "demographics": {
+        "collegeGraduate": "Mid-level education (45%, 110i)",
+        "ageDistribution": {
+          "Gen Z": "31% (174i)",
+          "Millennials": "35% (134i)",
+          "Gen X": "28% (77i)",
+          "Boomers": "6% (33i)"
+        },
+        "kids": "No children (51%, 108i)",
+        "gender": "85% Women (171i)",
+        "incomeOver250k": "> €60K (27%, 107i)",
+        "married": "Single (28%, 103i); Relationship (27%, 144i)",
+        "ethnicity": {}
+      },
+      "categoryBrandsIBuy": [
+        "Biotherm (191i)",
+        "Clinique (319i)",
+        "Eucerin (218i)",
+        "Kiehl’s (124i)",
+        "La Roche Posay (290i)",
+        "Vichy (154i)"
+      ],
+      "omnichannel": {
+        "shared": [
+          "Social Media Ad Influenced Purchasers (179i)",
+          "Buys via IG (232i)"
+        ],
+        "paid": [
+          "Streaming & Cable Subs (150i)",
+          "Short Videos (e.g., Reels, how-tos) (255i)",
+          "Instagram (194i)",
+          "TikTok (208i)",
+          "Online Magazine (127i)"
+        ],
+        "owned": [
+          "Read a branded blog (192i)",
+          "Used a company’s live-chat service (169i)"
+        ]
+      }
+    },
+    {
+      "personaQuotes": [],
+      "shoppingBehavior": {
+        "topRetailers": [
+          {
+            "name": "Renner",
+            "index": 255
+          },
+          {
+            "name": "Shein",
+            "index": 172
+          },
+          {
+            "name": "Magazine Luiza",
+            "index": 135
+          },
+          {
+            "name": "Americanas",
+            "index": 132
+          },
+          {
+            "name": "Amazon",
+            "index": 126
+          },
+          {
+            "name": "Mercado Livre",
+            "index": 123
+          }
+        ],
+        "purchaseInfluences": [
+          {
+            "index": 197,
+            "text": "Hypoallergenic"
+          },
+          {
+            "index": 188,
+            "text": "Professional/Influencer Recommendations"
+          },
+          {
+            "index": 175,
+            "text": "Ingredients"
+          },
+          {
+            "index": 161,
+            "text": "No animal testing"
+          },
+          {
+            "index": 154,
+            "text": "ESG"
+          },
+          {
+            "index": 150,
+            "text": "Sales"
+          },
+          {
+            "index": 127,
+            "text": "Ads"
+          },
+          {
+            "index": 121,
+            "text": "Reviews"
+          },
+          {
+            "index": 121,
+            "text": "Brand Power"
+          }
+        ],
+        "purchaseInfluenceChannels": [
+          {
+            "index": 166,
+            "text": "Magazines"
+          },
+          {
+            "index": 121,
+            "text": "Previous experiences"
+          },
+          {
+            "index": 113,
+            "text": "Internet"
+          },
+          {
+            "index": 107,
+            "text": "Television"
+          },
+          {
+            "index": 105,
+            "text": "OOH"
+          },
+          {
+            "index": 97,
+            "text": "Friends and Family"
+          },
+          {
+            "index": 90,
+            "text": "Newspapers"
+          },
+          {
+            "index": 85,
+            "text": "Influencers"
+          }
+        ],
+        "shoppingBehaviors": [],
+        "purchaseSources": {}
+      },
+      "keyInfluencersIFollow": [
+        {
+          "platforms": [
+            "TikTok",
+            "Instagram",
+            "YouTube"
+          ],
+          "name": "Joyce Kitamura",
+          "followers": "666K",
+          "index": 0,
+          "handle": "@joycekitamura"
+        },
+        {
+          "platforms": [
+            "Instagram",
+            "TikTok",
+            "YouTube"
+          ],
+          "name": "Lore Souza",
+          "followers": "3.3MM",
+          "index": 0,
+          "handle": "@loresouza"
+        },
+        {
+          "platforms": [
+            "Instagram",
+            "TikTok",
+            "YouTube"
+          ],
+          "name": "Dra Helua Gazi",
+          "followers": "12.8K",
+          "index": 0,
+          "handle": "@draheluagazi"
+        }
+      ],
+      "imageDescription": "",
+      "size": "13.6MM",
+      "description": "A 13.6MM audience of results-driven beauty consumers in Brazil. Victoria seeks performance, expertise, and integrity in her skincare choices, guided by ingredients, efficacy, and trusted voices rather than hype. She mixes premium and accessible brands, leans on magazines, professional endorsements, and pays attention to authenticity and proven benefits. Priority Audience #1: Competitive Anti-Aging Buyers: Anti-aging skincare purchasers excluding NTG Buyers.",
+      "market": "Brazil",
+      "name": "Competitive Anti-Aging Buyers: Victoria",
+      "interestsAndPropensities": {
+        "leisureActivities": [
+          "Practicing meditation and mindfulness (196i)",
+          "Taking dance classes (186i)",
+          "Going to museums and cultural events (181i)",
+          "Going to shopping centers (175i)",
+          "Doing puzzles like crosswords (160i)",
+          "Taking trips out of town (159i)",
+          "Photography (157i)",
+          "Going to clubs (155i)",
+          "Going to restaurants (154i)",
+          "Attending shows and concerts (153i)"
+        ],
+        "contentInMedia": [
+          "Home decoration (151i)",
+          "Celebrities and society (137i)",
+          "Cooking and gastronomy (130i)",
+          "Fashion, beauty and health (127i)",
+          "Tourism and travel (124i)",
+          "TV soap operas (122i)",
+          "Environment, ecology and nature (116i)",
+          "Art, culture and literature (115i)",
+          "Academic studies and education (114i)",
+          "International news (108i)"
+        ]
+      },
+      "demographics": {
+        "collegeGraduate": "College Graduate (30%, 172i)",
+        "ageDistribution": {
+          "Gen Z": "17% (70i)",
+          "Millennials": "33% (104i)",
+          "Gen X": "31% (119i)",
+          "Boomers": "17% (107i)"
+        },
+        "kids": "Kids (51%, 116i)",
+        "gender": "76% Women (149i)",
+        "incomeOver250k": "> BRL 4.5K (17%, 125i)",
+        "married": "Married (21%, 125i)",
+        "ethnicity": {
+          "African American": "7.8% (130i)",
+          "POC": "48% (99i)"
+        }
+      },
+      "categoryBrandsIBuy": [
+        "Racco (706i)",
+        "Adcos (588i)",
+        "Vichy (572i)",
+        "La Roche Posay (531i)",
+        "Cicatricure (521i)",
+        "Lancome (502i)",
+        "Clarins (449i)",
+        "L’Oreal (438i)",
+        "Mary Kay (430i)",
+        "Vita Derm (428i)",
+        "Garnier (420i)"
+      ],
+      "omnichannel": {
+        "shared": [
+          "Social media (107i)",
+          "Online Videos (105i)",
+          "Internet (104i)"
+        ],
+        "paid": [
+          "Pay TV (121i)",
+          "Magazine (121i)",
+          "Video Streaming (114i)"
+        ],
+        "owned": [
+          "Mobile Marketing (105i)"
+        ]
+      }
+    },
+    {
+      "personaQuotes": [],
+      "shoppingBehavior": {
+        "topRetailers": [
+          {
+            "name": "Shein",
+            "index": 144
+          },
+          {
+            "name": "O Boticario",
+            "index": 138
+          },
+          {
+            "name": "Shopee",
+            "index": 127
+          },
+          {
+            "name": "Temu",
+            "index": 120
+          },
+          {
+            "name": "Magazine Luiza",
+            "index": 114
+          },
+          {
+            "name": "Amazon",
+            "index": 107
+          }
+        ],
+        "purchaseInfluences": [
+          {
+            "index": 142,
+            "text": "No animal testing"
+          },
+          {
+            "index": 141,
+            "text": "Professional or Influencer Recommendation"
+          },
+          {
+            "index": 132,
+            "text": "Hypoallergenic ingredients"
+          },
+          {
+            "index": 129,
+            "text": "Ingredients"
+          },
+          {
+            "index": 125,
+            "text": "ESG"
+          },
+          {
+            "index": 124,
+            "text": "Texture"
+          },
+          {
+            "index": 123,
+            "text": "Samples"
+          },
+          {
+            "index": 118,
+            "text": "Reviews"
+          },
+          {
+            "index": 118,
+            "text": "Friends/Family Recommendation"
+          }
+        ],
+        "purchaseInfluenceChannels": [
+          {
+            "index": 136,
+            "text": "Influencers"
+          },
+          {
+            "index": 112,
+            "text": "Internet"
+          },
+          {
+            "index": 108,
+            "text": "Social Media"
+          },
+          {
+            "index": 106,
+            "text": "Television"
+          },
+          {
+            "index": 99,
+            "text": "Previous Experiences"
+          },
+          {
+            "index": 96,
+            "text": "OOH"
+          },
+          {
+            "index": 95,
+            "text": "Friends and Family"
+          }
+        ],
+        "shoppingBehaviors": [],
+        "purchaseSources": {}
+      },
+      "keyInfluencersIFollow": [
+        {
+          "platforms": [
+            "TikTok",
+            "Instagram",
+            "YouTube"
+          ],
+          "name": "Vanessa Rozan",
+          "followers": "1.3MM",
+          "index": 0,
+          "handle": "@vanessarozan"
+        },
+        {
+          "platforms": [
+            "Instagram",
+            "TikTok",
+            "YouTube"
+          ],
+          "name": "Lele Burnier",
+          "followers": "1MM",
+          "index": 0,
+          "handle": "@leleburnier"
+        },
+        {
+          "platforms": [
+            "Instagram",
+            "TikTok",
+            "YouTube"
+          ],
+          "name": "Brunna Goncalves",
+          "followers": "7.4MM",
+          "index": 0,
+          "handle": "@brunnagoncalves"
+        }
+      ],
+      "imageDescription": "",
+      "size": "7.7MM",
+      "description": "A 7.7MM audience of Brazilian beauty devotees who live at the intersection of culture, mindfulness, and style. Bianca is expressive and socially engaged, exploring both mass and prestige brands through online-first retail. Influenced by local creators and brand authenticity, she values sustainability, inclusivity, and product quality that aligns with her lifestyle. Key Audience #2: Beauty Enthusiasts: Skincare purchasers (not NTG), high personal involvement in beauty (personal interest in skincare/beauty, beauty tutorials, beauty experts).",
+      "market": "Brazil",
+      "name": "Beauty Enthusiasts (Bianca)",
+      "interestsAndPropensities": {
+        "leisureActivities": [
+          "Practicing meditation and mindfulness (192i)",
+          "Taking dance classes (182i)",
+          "Attending shows and concerts (164i)",
+          "Going to museums and cultural events (151i)",
+          "Going to shopping centers (140i)",
+          "Doing puzzles like crosswords and sudoku (136i)",
+          "Going out to dance (133i)",
+          "Playing sports (131i)",
+          "Decorating, crafting, and gardening (130i)",
+          "Meeting with friends (129i)"
+        ],
+        "contentInMedia": [
+          "Fashion, beauty, and health (124i)",
+          "Home decoration (123i)",
+          "Cooking and gastronomy (122i)",
+          "TV soap operas (121i)",
+          "Celebrities and society (115i)",
+          "Art, culture, and literature (111i)",
+          "Academic studies and education (110i)",
+          "Environment, ecology, and nature (107i)",
+          "Humor (104i)",
+          "National and local news (100i)"
+        ]
+      },
+      "demographics": {
+        "collegeGraduate": "College Graduate (18%, 103i)",
+        "ageDistribution": {
+          "Gen Z": "31% (125i)",
+          "Millennials": "34% (105i)",
+          "Gen X": "21% (81i)",
+          "Boomers": "14% (83i)"
+        },
+        "kids": "Kids (45%, 102i)",
+        "gender": "76% Women (147i)",
+        "incomeOver250k": "> R$4.5K (11%, 82i)",
+        "married": "Married (42%, 96i)",
+        "ethnicity": {
+          "African American": "32% (104i)",
+          "POC": "48% (100i)"
+        }
+      },
+      "categoryBrandsIBuy": [
+        "Biotherm (275i)",
+        "Natura (272i)",
+        "O Boticario (271i)",
+        "Chanel (266i)",
+        "Davene (265i)",
+        "Avon (262i)",
+        "Dior (260i)",
+        "Eudora (256i)",
+        "Nivea Crème (251i)",
+        "Nivea Soft (250i)"
+      ],
+      "omnichannel": {
+        "shared": [
+          "Social Media (106i)",
+          "Online Videos (104i)",
+          "Internet (102i)"
+        ],
+        "paid": [
+          "Music Streaming (112i)",
+          "Video Streaming (109i)",
+          "Movie Theaters (107i)"
+        ],
+        "owned": [
+          "Mobile Marketing (102i)"
+        ]
+      }
+    }
+
+  ]
+}
+
