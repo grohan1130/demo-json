@@ -444,7 +444,7 @@
             "Vita Derm",
             "Garnier"
           ],
-          "imageDescription": "",
+          "imageDescription": "A woman with clear skin looking slightly upward, representing a confident and trend-aware beauty consumer in Brazil.",
           "keyInfluencersIFollow": [
             {
               "platforms": [
@@ -483,16 +483,25 @@
           "size": "13.6MM",
           "market": "Brazil",
           "shoppingBehavior": {
-            "purchaseSources": {},
-            "shoppingBehaviors": [],
-            "purchaseInfluences": [
+            "purchaseSources": {
+              "Direct to Consumer": "26%",
+              "Specialty Stores": "17%",
+              "Essentials Stores": "13%",
+              "Department Stores": "13%",
+              "Grocery Stores": "14%",
+              "Mass Merchandisers": "17%",
+              "Subscriptions": "12%",
+              "Big Box": "13%",
+              "Online": "13%"
+            },
+            "shoppingBehaviors": [
               {
                 "index": 197,
                 "text": "Hypoallergenic"
               },
               {
-                "index": 188,
-                "text": "Professional/Influencer Recommendations"
+                "text": "Professional/Influencer Recommendations",
+                "index": 188
               },
               {
                 "index": 175,
@@ -503,28 +512,18 @@
                 "text": "No animal testing"
               },
               {
-                "index": 154,
-                "text": "ESG"
+                "text": "ESG",
+                "index": 154
               },
               {
-                "index": 150,
-                "text": "Sales"
-              },
+                "text": "Sales",
+                "index": 150
+              }
+            ],
+            "purchaseInfluences": [
               {
-                "index": 127,
-                "text": "Ads"
-              },
-              {
-                "index": 121,
-                "text": "Reviews"
-              },
-              {
-                "index": 121,
-                "text": "Brand Power"
-              },
-              {
-                "index": 166,
-                "text": "Magazines"
+                "text": "Magazines",
+                "index": 166
               },
               {
                 "index": 121,
@@ -533,26 +532,6 @@
               {
                 "index": 113,
                 "text": "Internet"
-              },
-              {
-                "index": 107,
-                "text": "Television"
-              },
-              {
-                "index": 105,
-                "text": "OOH"
-              },
-              {
-                "index": 97,
-                "text": "Friends and Family"
-              },
-              {
-                "index": 90,
-                "text": "Newspapers"
-              },
-              {
-                "index": 85,
-                "text": "Influencers"
               }
             ],
             "topRetailers": [
@@ -601,63 +580,100 @@
           },
           "demographics": {
             "gender": "76% Women",
-            "incomeOver250k": "> BRL 4.5K (17%)",
-            "married": "Married (21%)",
+            "incomeOver250k": "17%",
+            "married": "21%",
             "ageDistribution": {
-              "Gen Z": "17%",
               "Millennials": "33%",
-              "Gen X": "31%",
-              "Boomers": "17%"
+              "Boomers": "17%",
+              "Gen Z": "17%",
+              "Gen X": "31%"
             },
             "ethnicity": {
               "African American": "7.8%",
               "POC": "48%"
             },
-            "collegeGraduate": "College Graduate (30%)",
-            "kids": "Kids (51%)"
+            "collegeGraduate": "30%",
+            "kids": "51%"
           },
-          "personaQuotes": [],
+          "personaQuotes": [
+            "I focus on ingredients and results, not just brand names. — Victoria",
+            "Magazines and dermatologist recommendations guide my choices. — Victoria",
+            "Quality and proven efficacy matter more than trends. — Victoria"
+          ],
           "interestsAndPropensities": {
-            "leisureActivities": [
-              "Practicing meditation and mindfulness",
-              "Taking dance classes",
-              "Going to museums and cultural events",
-              "Going to shopping centers",
-              "Doing puzzles like crosswords",
-              "Taking trips out of town",
+            "fitness": [
+              "Meditation and mindfulness",
+              "Dance classes",
               "Photography",
-              "Going to clubs",
-              "Going to restaurants",
+              "Playing sports"
+            ],
+            "travel": [
+              "Taking trips out of town",
+              "Going to museums and cultural events",
               "Attending shows and concerts"
             ],
-            "contentInMedia": [
-              "Home decoration",
-              "Celebrities and society",
-              "Cooking and gastronomy",
-              "Fashion, beauty and health",
-              "Tourism and travel",
+            "entertainment": [
+              "Going to clubs",
+              "Going to restaurants",
               "TV soap operas",
-              "Environment, ecology and nature",
-              "Art, culture and literature",
-              "Academic studies and education",
-              "International news"
+              "Art, culture and literature"
+            ],
+            "luxury": [
+              "Fine dining experiences",
+              "Shopping centers",
+              "Cultural events",
+              "Premium beauty products"
+            ],
+            "skincareConcerns": [
+              "Anti-Aging",
+              "Hydration",
+              "Resilience/Protection",
+              "Renewal"
             ]
           }
         },
         {
-          "categoryBrandsIBuy": [
-            "Biotherm",
-            "Natura",
-            "O Boticario",
-            "Chanel",
-            "Davene",
-            "Avon",
-            "Dior",
-            "Eudora",
-            "Nivea Crème",
-            "Nivea Soft"
+          "market": "Brazil",
+          "description": "A 7.7MM audience of Brazilian beauty devotees who live at the intersection of culture, mindfulness, and style. Bianca is expressive and socially engaged, exploring both mass and prestige brands through online-first retail. Influenced by local creators and brand authenticity, she values sustainability, inclusivity, and product quality that aligns with her lifestyle.",
+          "name": "Beauty Enthusiasts (Bianca)",
+          "omnichannel": {
+            "shared": [
+              "Social Media",
+              "Online Videos",
+              "Internet"
+            ],
+            "owned": [
+              "Mobile Marketing"
+            ],
+            "paid": [
+              "Music Streaming",
+              "Video Streaming",
+              "Movie Theaters"
+            ]
+          },
+          "imageDescription": "A woman with clear skin looking slightly upward, representing a confident and trend-aware beauty consumer in Brazil.",
+          "demographics": {
+            "ageDistribution": {
+              "Millennials": "34%",
+              "Boomers": "14%",
+              "Gen Z": "31%",
+              "Gen X": "21%"
+            },
+            "incomeOver250k": "11%",
+            "ethnicity": {
+              "POC": "48%",
+              "African American": "32%"
+            },
+            "kids": "45%",
+            "gender": "76% Women",
+            "married": "42%",
+            "collegeGraduate": "18%"
+          },
+          "personaQuotes": [
+            "I love trying new brands that align with my values of sustainability and inclusivity. — Bianca",
+            "Local creators and authentic brand stories influence my choices. — Bianca",
+            "Beauty is about expressing myself and celebrating my culture. — Bianca"
           ],
-          "imageDescription": "",
           "keyInfluencersIFollow": [
             {
               "name": "Vanessa Rozan",
@@ -693,23 +709,51 @@
               "followers": "7.4MM"
             }
           ],
-          "size": "7.7MM",
-          "market": "Brazil",
+          "interestsAndPropensities": {
+            "skincareConcerns": [
+              "Acne",
+              "Hydration/Vitality",
+              "Resilience/Protection",
+              "Renewal"
+            ],
+            "luxury": [
+              "Fashion and beauty",
+              "Cultural events",
+              "Shopping experiences",
+              "Premium products"
+            ],
+            "fitness": [
+              "Meditation and mindfulness",
+              "Dance classes",
+              "Playing sports",
+              "Crafting and gardening"
+            ],
+            "entertainment": [
+              "Shows and concerts",
+              "TV soap operas",
+              "Art and culture",
+              "Humor content"
+            ],
+            "travel": [
+              "Museums and cultural events",
+              "Shopping centers",
+              "Meeting with friends",
+              "Local exploration"
+            ]
+          },
           "shoppingBehavior": {
-            "purchaseSources": {},
-            "shoppingBehaviors": [],
-            "purchaseInfluences": [
+            "shoppingBehaviors": [
               {
                 "index": 142,
                 "text": "No animal testing"
               },
               {
-                "index": 141,
-                "text": "Professional or Influencer Recommendation"
+                "text": "Professional or Influencer Recommendation",
+                "index": 141
               },
               {
-                "index": 132,
-                "text": "Hypoallergenic ingredients"
+                "text": "Hypoallergenic ingredients",
+                "index": 132
               },
               {
                 "index": 129,
@@ -722,19 +766,20 @@
               {
                 "index": 124,
                 "text": "Texture"
-              },
-              {
-                "index": 123,
-                "text": "Samples"
-              },
-              {
-                "index": 118,
-                "text": "Reviews"
-              },
-              {
-                "index": 118,
-                "text": "Friends/Family Recommendation"
-              },
+              }
+            ],
+            "purchaseSources": {
+              "Essentials Stores": "14%",
+              "Specialty Stores": "14%",
+              "Online": "13%",
+              "Big Box": "11%",
+              "Direct to Consumer": "14%",
+              "Department Stores": "14%",
+              "Mass Merchandisers": "11%",
+              "Grocery Stores": "13%",
+              "Subscriptions": "12%"
+            },
+            "purchaseInfluences": [
               {
                 "index": 136,
                 "text": "Influencers"
@@ -746,22 +791,6 @@
               {
                 "index": 108,
                 "text": "Social Media"
-              },
-              {
-                "index": 106,
-                "text": "Television"
-              },
-              {
-                "index": 99,
-                "text": "Previous Experiences"
-              },
-              {
-                "index": 96,
-                "text": "OOH"
-              },
-              {
-                "index": 95,
-                "text": "Friends and Family"
               }
             ],
             "topRetailers": [
@@ -791,67 +820,19 @@
               }
             ]
           },
-          "description": "A 7.7MM audience of Brazilian beauty devotees who live at the intersection of culture, mindfulness, and style. Bianca is expressive and socially engaged, exploring both mass and prestige brands through online-first retail. Influenced by local creators and brand authenticity, she values sustainability, inclusivity, and product quality that aligns with her lifestyle.",
-          "name": "Beauty Enthusiasts (Bianca)",
-          "omnichannel": {
-            "owned": [
-              "Mobile Marketing"
-            ],
-            "paid": [
-              "Music Streaming",
-              "Video Streaming",
-              "Movie Theaters"
-            ],
-            "shared": [
-              "Social Media",
-              "Online Videos",
-              "Internet"
-            ]
-          },
-          "demographics": {
-            "gender": "76% Women",
-            "incomeOver250k": "> R$4.5K (11%)",
-            "married": "Married (42%)",
-            "ageDistribution": {
-              "Gen Z": "31%",
-              "Millennials": "34%",
-              "Gen X": "21%",
-              "Boomers": "14%"
-            },
-            "ethnicity": {
-              "African American": "32%",
-              "POC": "48%"
-            },
-            "collegeGraduate": "College Graduate (18%)",
-            "kids": "Kids (45%)"
-          },
-          "personaQuotes": [],
-          "interestsAndPropensities": {
-            "leisureActivities": [
-              "Practicing meditation and mindfulness",
-              "Taking dance classes",
-              "Attending shows and concerts",
-              "Going to museums and cultural events",
-              "Going to shopping centers",
-              "Doing puzzles like crosswords and sudoku",
-              "Going out to dance",
-              "Playing sports",
-              "Decorating, crafting, and gardening",
-              "Meeting with friends"
-            ],
-            "contentInMedia": [
-              "Fashion, beauty, and health",
-              "Home decoration",
-              "Cooking and gastronomy",
-              "TV soap operas",
-              "Celebrities and society",
-              "Art, culture, and literature",
-              "Academic studies and education",
-              "Environment, ecology, and nature",
-              "Humor",
-              "National and local news"
-            ]
-          }
+          "size": "7.7MM",
+          "categoryBrandsIBuy": [
+            "Biotherm",
+            "Natura",
+            "O Boticario",
+            "Chanel",
+            "Davene",
+            "Avon",
+            "Dior",
+            "Eudora",
+            "Nivea Crème",
+            "Nivea Soft"
+          ]
         }
       ]
     },
