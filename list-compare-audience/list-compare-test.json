@@ -1,0 +1,1112 @@
+{
+  "tabs": [
+    {
+      "label": "US",
+      "key": "US",
+      "audiences": [
+        {
+          "description": "A 3MM audience of young, urban, and digitally active U.S. consumers beginning their oral care journey. Point of Market Entry: Starting Out skews Gen Z with an average age of 26, balancing new independence and early family life. They seek trusted guidance from peers and healthcare professionals, value affordability, and are motivated by promotions and convenience. Shopping primarily at Amazon and Target, they are high-value opportunities for brand trial through personalized offers and digital engagement.",
+          "shoppingBehavior": {
+            "shoppingBehaviors": [
+              {
+                "text": "Very important on social media to receive exclusive offers/coupons/discounts",
+                "index": 175
+              },
+              {
+                "text": "Free spirited shopper",
+                "index": 118
+              },
+              {
+                "text": "Will switch brands to use a coupon",
+                "index": 117
+              },
+              {
+                "text": "Personal care new product seeker",
+                "index": 209
+              },
+              {
+                "text": "Subscribe or auto-shipment personal care customer",
+                "index": 171
+              }
+            ],
+            "purchaseSources": {
+              "Big Box": "44%",
+              "Subscriptions": "35%",
+              "Mass Merchandisers": "0%",
+              "Specialty Stores": "0%",
+              "Online": "56%",
+              "Department Stores": "0%",
+              "Direct to Consumer": "0%",
+              "Essentials Stores": "47%",
+              "Grocery Stores": "0%"
+            },
+            "purchaseInfluences": [
+              {
+                "index": 131,
+                "text": "Recommendation from family/friends"
+              },
+              {
+                "index": 131,
+                "text": "Recommendation from doctor/GP"
+              },
+              {
+                "index": 131,
+                "text": "Online information or reviews"
+              }
+            ],
+            "topRetailers": [
+              {
+                "name": "Target",
+                "index": 245
+              },
+              {
+                "name": "Amazon",
+                "index": 301
+              },
+              {
+                "name": "Sam's Club",
+                "index": 171
+              },
+              {
+                "name": "BJ's",
+                "index": 242
+              },
+              {
+                "name": "Online Pharmacy",
+                "index": 197
+              }
+            ]
+          },
+          "interestsAndPropensities": {
+            "skincareConcerns": [
+              "Guidance from family/friends on health and hygiene (131i)",
+              "Doctor/GP recommendations for oral health (131i)",
+              "Online information about products and routines (131i)"
+            ],
+            "entertainment": [
+              "Live music concerts (247i)",
+              "Movie enthusiasts (233i)",
+              "Professional sports attendees (214i)"
+            ],
+            "luxury": [
+              "Occasional premium experiences when value is clear",
+              "Upgraded entertainment or travel for special occasions"
+            ],
+            "travel": [
+              "Road trips (258i)",
+              "Likely cruisers (221i)",
+              "Family vacations (231i)"
+            ],
+            "fitness": [
+              "Pro football fans (316i)",
+              "Baseball fans (249i)",
+              "Hockey fans (236i)",
+              "College football fans (226i)",
+              "Soccer fans (214i)"
+            ]
+          },
+          "categoryBrandsIBuy": [
+            "Colgate Toothpaste",
+            "Arm & Hammer Advance White",
+            "Oral & Manual Toothbrush",
+            "Colgate Optic White Toothpaste"
+          ],
+          "name": "Point of Market Entry: Starting Out",
+          "demographics": {
+            "incomeOver250k": "46% earn between $50K–$150K",
+            "ethnicity": {},
+            "kids": "56% kids at home",
+            "gender": "51% Female",
+            "collegeGraduate": "Not specified",
+            "married": "72% Single",
+            "ageDistribution": {
+              "Gen X": "Smaller share; emerging users",
+              "Boomers": "Limited presence",
+              "Gen Z": "Strongly over-indexed; average age 26",
+              "Millennials": "Meaningful representation"
+            }
+          },
+          "size": "3MM",
+          "market": "USA",
+          "personaQuotes": [
+            "I’m just starting to build my own oral care routine, so I look to friends and doctors to tell me what actually works.",
+            "If there’s a good deal online at Amazon or Target, that’s when I’ll try something new like mouthwash or a whitening toothpaste."
+          ],
+          "imageDescription": "A young Gen Z consumer in an urban apartment bathroom, phone on the counter and toothpaste, toothbrush, and mouthwash visible, representing the Point of Market Entry: Starting Out oral care audience in the USA.",
+          "keyInfluencersIFollow": [
+            {
+              "platforms": [
+                "Instagram",
+                "TikTok"
+              ],
+              "index": 534,
+              "name": "Joe Mele",
+              "handle": "@mmmjoemele",
+              "followers": ""
+            },
+            {
+              "handle": "@avanigregg",
+              "name": "Avani Gregg",
+              "platforms": [
+                "Instagram",
+                "TikTok",
+                "YouTube"
+              ],
+              "followers": "",
+              "index": 346
+            },
+            {
+              "followers": "",
+              "platforms": [
+                "Instagram",
+                "TikTok",
+                "YouTube"
+              ],
+              "name": "Zach King",
+              "index": 137,
+              "handle": "@zachking"
+            }
+          ],
+          "omnichannel": {
+            "shared": [
+              "Social media ad influenced purchasers",
+              "Shopping videos on TikTok and Instagram",
+              "Buys via social platforms when offered deals"
+            ],
+            "paid": [
+              "Streaming TV",
+              "Ads seen at cinema",
+              "Radio",
+              "Billboards",
+              "Display ads",
+              "TikTok",
+              "Facebook",
+              "Pinterest"
+            ],
+            "owned": [
+              "Retailer and brand email subscribers",
+              "Email engagement and direct mail offers"
+            ]
+          }
+        },
+        {
+          "description": "An 8.2MM audience of affluent, family-oriented U.S. consumers who once trusted Listerine but have shifted away. Predominantly Gen X and Boomers, they balance active wellness routines with leisure and travel. Their shopping is driven by convenience and familiarity, with Amazon and mass retailers as key touchpoints. They respond to credible recommendations and premium natural product offerings, staying connected through streaming, email, and social engagement.",
+          "shoppingBehavior": {
+            "shoppingBehaviors": [
+              {
+                "text": "Convenience-driven personal care shopper",
+                "index": 132
+              },
+              {
+                "text": "Personal care new product seeker",
+                "index": 190
+              },
+              {
+                "text": "Brand-motivated personal care product user",
+                "index": 175
+              },
+              {
+                "text": "Premium natural personal care product user",
+                "index": 147
+              },
+              {
+                "text": "Stock up shopper",
+                "index": 346
+              }
+            ],
+            "purchaseSources": {
+              "Big Box": "60%",
+              "Subscriptions": "30%",
+              "Mass Merchandisers": "40%",
+              "Specialty Stores": "10%",
+              "Online": "70%",
+              "Department Stores": "10%",
+              "Direct to Consumer": "10%",
+              "Essentials Stores": "20%",
+              "Grocery Stores": "20%"
+            },
+            "purchaseInfluences": [
+              {
+                "text": "Brand used before",
+                "index": 118
+              },
+              {
+                "text": "Cost of medicine and products",
+                "index": 118
+              },
+              {
+                "text": "GP/Doctor/Pharmacist recommendation",
+                "index": 129
+              }
+            ],
+            "topRetailers": [
+              {
+                "index": 392,
+                "name": "Amazon"
+              },
+              {
+                "index": 234,
+                "name": "Target"
+              },
+              {
+                "name": "Sam's Club",
+                "index": 269
+              },
+              {
+                "name": "Costco",
+                "index": 188
+              },
+              {
+                "name": "BJ's",
+                "index": 287
+              },
+              {
+                "name": "Online Pharmacy",
+                "index": 312
+              }
+            ]
+          },
+          "interestsAndPropensities": {
+            "skincareConcerns": [
+              "Premium and natural personal care product users (147i)",
+              "Anti-aging and long-term wellness focus",
+              "Sensitive to efficacy and recommendation from professionals (129i)"
+            ],
+            "entertainment": [
+              "Frequent movie enthusiasts (289i)",
+              "Comedy movie fans (153i)",
+              "Romance movie fans (157i)",
+              "Cultural events attendees (242i)"
+            ],
+            "luxury": [
+              "Vacation spenders (284i)",
+              "Premium hotel rewards members (305i)",
+              "Frequent airline rewards users (290i)"
+            ],
+            "travel": [
+              "Family vacations and leisure travel",
+              "Hotel rewards programs (305i)",
+              "Airline rewards programs (290i)"
+            ],
+            "fitness": [
+              "Proactive health managers (248i)",
+              "Yoga enthusiasts (180i)",
+              "Gym owners or heavy users (379i)",
+              "All-around sports enthusiasts across soccer, football, baseball, hockey, golf, NASCAR, and basketball"
+            ]
+          },
+          "categoryBrandsIBuy": [
+            "Battery toothbrush",
+            "Colgate Sensitive",
+            "Arm & Hammer Advance White",
+            "Mouthwash Act",
+            "Mouthwash Colgate Total",
+            "Facial moisturizer",
+            "CeraVe",
+            "Anti-aging products"
+          ],
+          "name": "Listerine Lapsed",
+          "demographics": {
+            "incomeOver250k": "73% earn more than $100K annually; 25% earn more than $200K",
+            "ethnicity": {},
+            "kids": "62% kids at home",
+            "gender": "51% Female",
+            "collegeGraduate": "Not specified",
+            "married": "78% Married",
+            "ageDistribution": {
+              "Gen X": "Over-indexed; average age 55",
+              "Boomers": "Over-indexed; average age 55",
+              "Gen Z": "Smaller share",
+              "Millennials": "Moderate share"
+            }
+          },
+          "size": "8.2MM",
+          "market": "USA",
+          "personaQuotes": [
+            "We already know which brands work for our family, but we’ll upgrade if the benefits and health claims are clear.",
+            "Convenience matters most—if I can stock up on trusted products at Amazon or a club store, that’s where I’ll go."
+          ],
+          "imageDescription": "A midlife consumer in a family bathroom with mouthwash, electric toothbrushes, and premium personal care products arranged neatly, representing the Listerine Lapsed audience in the USA.",
+          "keyInfluencersIFollow": [
+            {
+              "followers": "",
+              "name": "Latroy & Nicole Tillery",
+              "handle": "@lovethetilleryes",
+              "platforms": [
+                "YouTube",
+                "Instagram"
+              ],
+              "index": 107
+            },
+            {
+              "followers": "",
+              "name": "Andrew Maddock",
+              "handle": "@drewfromladue",
+              "platforms": [
+                "Instagram",
+                "TikTok"
+              ],
+              "index": 107
+            },
+            {
+              "followers": "",
+              "name": "Joey Graziadei",
+              "handle": "@joeygraziadei",
+              "platforms": [
+                "Instagram",
+                "TikTok"
+              ],
+              "index": 103
+            }
+          ],
+          "omnichannel": {
+            "shared": [
+              "Social media ad influenced purchasers",
+              "Shares recommendations with family and friends",
+              "Engages with brand and retailer content around health and wellness"
+            ],
+            "paid": [
+              "Streaming TV",
+              "Ads seen at cinema",
+              "Radio",
+              "Billboards",
+              "Display ads",
+              "TikTok",
+              "Facebook",
+              "Pinterest"
+            ],
+            "owned": [
+              "Email from retailers and brands (267i)",
+              "Direct mail offers and reminders (209i)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "label": "UK",
+      "key": "UK",
+      "audiences": [
+        {
+          "description": "A digitally active, relationship-centered UK audience balancing work, family, and wellness. Wellness Enthusiasts value practical beauty, hygiene, and lifestyle tips, and respond strongly to celebrity-led media. They shop mainly at Tesco and Aldi, buying brands like L'Oréal, Nivea, and Dove, while following influencers such as Jasmine Lovell and Chloe Sims for relatable inspiration.",
+          "shoppingBehavior": {
+            "shoppingBehaviors": [
+              {
+                "text": "Not the principal shopper of the household",
+                "index": 101
+              },
+              {
+                "text": "Cosmetic products buyer",
+                "index": 203
+              },
+              {
+                "text": "Buys baby products",
+                "index": 95
+              },
+              {
+                "text": "Skincare and haircare brand loyalist (L'Oreal, Nivea, Dove, Tresemme, Lynx, Head & Shoulders)",
+                "index": 120
+              }
+            ],
+            "purchaseSources": {
+              "Tesco": "13%",
+              "Sainsbury's": "7%",
+              "Aldi": "35%",
+              "Asda": "7%",
+              "Lidl": "25%",
+              "Morrisons": "4%",
+              "Waitrose": "4%",
+              "Co-op": "21%"
+            },
+            "purchaseInfluences": [
+              {
+                "index": 182,
+                "text": "Celebrities influence my purchase decisions"
+              },
+              {
+                "index": 157,
+                "text": "I enjoy watching ads featuring my favorite celebrities"
+              },
+              {
+                "index": 173,
+                "text": "I often notice products or brands that appear in TV programs and films"
+              },
+              {
+                "index": 157,
+                "text": "I always buy vegan products where possible"
+              }
+            ],
+            "topRetailers": [
+              {
+                "name": "Tesco",
+                "index": 104
+              },
+              {
+                "name": "Sainsbury's",
+                "index": 79
+              },
+              {
+                "name": "Aldi",
+                "index": 97
+              },
+              {
+                "name": "Asda",
+                "index": 124
+              },
+              {
+                "name": "Lidl",
+                "index": 93
+              },
+              {
+                "name": "Morrisons",
+                "index": 110
+              },
+              {
+                "name": "Waitrose",
+                "index": 168
+              },
+              {
+                "name": "Co-op",
+                "index": 107
+              }
+            ]
+          },
+          "interestsAndPropensities": {
+            "skincareConcerns": [
+              "Oral hygiene and bad breath solutions",
+              "Quick cosmetic and beauty solutions",
+              "Healthy living tips & habits",
+              "Routines for age-optimizing"
+            ],
+            "entertainment": [
+              "Writing (11%, 96i)",
+              "Drawing and painting (17%, 133i)",
+              "Playing a musical instrument (11%, 101i)",
+              "Enjoys TV programs and films featuring recognizable brands"
+            ],
+            "luxury": [
+              "Occasional premium beauty and personal care purchases when value is clear",
+              "Interest in practical but effective cosmetic upgrades"
+            ],
+            "travel": [
+              "Family-oriented outings and everyday local travel for work and school",
+              "Practical trips that fit around work–life balance"
+            ],
+            "fitness": [
+              "Cooking at home (68%, 100i) as part of a balanced lifestyle",
+              "Wellness-focused routines for self and family"
+            ]
+          },
+          "categoryBrandsIBuy": [
+            "Cosmetic Products",
+            "Baby Products",
+            "L'Oreal",
+            "Nivea",
+            "Dove",
+            "Head & Shoulders",
+            "Tresemme",
+            "Lynx"
+          ],
+          "name": "Wellness Enthusiast",
+          "demographics": {
+            "incomeOver250k": "Average annual income around £30.5K",
+            "ethnicity": {},
+            "kids": "53% have kids in the household (92i)",
+            "gender": "67% Female (130i)",
+            "collegeGraduate": "Not specified",
+            "married": "70% in a relationship (104i)",
+            "ageDistribution": {
+              "Gen Z": "17% are 15–24 (182i)",
+              "Millennials": "28% are 25–34 (173i)",
+              "Gen X": "Smaller share beyond 35",
+              "Boomers": "Limited presence"
+            }
+          },
+          "size": "4.5MM",
+          "market": "UK",
+          "personaQuotes": [
+            "I’m always looking for simple tips that make family life, hygiene, and beauty feel more manageable.",
+            "If a celebrity I like uses a product and it fits my routine and budget, I’m very likely to try it."
+          ],
+          "imageDescription": "A UK parent in a cozy kitchen and bathroom setting, juggling work and family life, with everyday personal care brands like L'Oreal, Nivea, and Dove visible on the counter, representing the Wellness Enthusiast audience.",
+          "keyInfluencersIFollow": [
+            {
+              "platforms": [
+                "TikTok"
+              ],
+              "index": 0,
+              "name": "Jasmine Lovell",
+              "handle": "@jasminelovellll",
+              "followers": ""
+            },
+            {
+              "handle": "@chloesims",
+              "name": "Chloe Sims",
+              "platforms": [
+                "Instagram"
+              ],
+              "followers": "",
+              "index": 0
+            },
+            {
+              "followers": "",
+              "platforms": [
+                "Instagram",
+                "TikTok"
+              ],
+              "name": "Josh Cuthbert",
+              "index": 0,
+              "handle": "@joshcuthbert"
+            }
+          ],
+          "omnichannel": {
+            "shared": [
+              "Social media conversations influenced by celebrities",
+              "Word-of-mouth sharing of beauty and hygiene tips",
+              "Online discussions of TV and film product placements"
+            ],
+            "paid": [
+              "Internet advertising",
+              "Social media ads",
+              "Newspaper ads"
+            ],
+            "owned": [
+              "I often notice products or brands that appear in TV programs and films (14%, 173i)",
+              "I always buy vegan products where possible (15%, 157i)",
+              "Brand and retailer content that reinforces healthy routines and practical tips"
+            ]
+          }
+        },
+        {
+          "description": "A digitally engaged, mid-income UK parent audience blending practicality and tech-savviness. Ortho Conscious Parents are predominantly partnered and family-centered, consuming content around parenting, hygiene, and everyday life. They value authenticity, notice ads in podcasts and news media, and are open to guidance that simplifies family routines. Key retailers include Amazon Fresh and ASDA, with strong affinity toward Pampers, Burt’s Bees, and Johnson’s Baby.",
+          "shoppingBehavior": {
+            "shoppingBehaviors": [
+              {
+                "text": "Not the principal shopper of the household",
+                "index": 107
+              },
+              {
+                "text": "Family-focused shopper prioritizing baby and personal care products",
+                "index": 300
+              },
+              {
+                "text": "Digitally savvy, using Vinted and online platforms for value and convenience",
+                "index": 139
+              }
+            ],
+            "purchaseSources": {
+              "Amazon Fresh": "12%",
+              "JD Sports": "3%",
+              "ASDA": "11%",
+              "Vinted": "26%",
+              "Ocado": "5%",
+              "Aldi": "35%"
+            },
+            "purchaseInfluences": [
+              {
+                "index": 350,
+                "text": "Celebrities influence my purchase decisions"
+              },
+              {
+                "index": 350,
+                "text": "I often notice products or brands that appear in TV programs and films"
+              },
+              {
+                "index": 313,
+                "text": "I often notice ads in newspapers and magazines"
+              },
+              {
+                "index": 505,
+                "text": "Ads in podcasts improve my perception of the brand"
+              }
+            ],
+            "topRetailers": [
+              {
+                "name": "Amazon Fresh",
+                "index": 391
+              },
+              {
+                "name": "JD Sports",
+                "index": 200
+              },
+              {
+                "name": "ASDA",
+                "index": 199
+              },
+              {
+                "name": "Vinted",
+                "index": 139
+              },
+              {
+                "name": "Ocado",
+                "index": 142
+              },
+              {
+                "name": "Aldi",
+                "index": 99
+              }
+            ]
+          },
+          "interestsAndPropensities": {
+            "skincareConcerns": [
+              "Oral hygiene and bad breath solutions for the family",
+              "Routines for age-optimizing and everyday wellness",
+              "Product safety and suitability for kids"
+            ],
+            "entertainment": [
+              "Coding and computing as hobbies (coding 14%, 174i; computing 20%, 130i)",
+              "Model making (12%, 158i)",
+              "Relatable, family-oriented content and humor"
+            ],
+            "luxury": [
+              "Occasional premium baby and family products (Pampers, Burt’s Bees, Johnson's Baby)",
+              "Willingness to pay more for trusted brands with clear benefits"
+            ],
+            "travel": [
+              "Camping (25%, 147i)",
+              "Family-oriented outings and short trips that fit around work"
+            ],
+            "fitness": [
+              "Meditation and mindfulness (20%, 150i)",
+              "Balanced lifestyle that mixes screen time with outdoor activity"
+            ]
+          },
+          "categoryBrandsIBuy": [
+            "Burt's Bees",
+            "Johnson's Baby",
+            "Dove",
+            "Head & Shoulders",
+            "Nivea",
+            "Pampers",
+            "Simple",
+            "Huggies"
+          ],
+          "name": "Ortho Conscious Parents",
+          "demographics": {
+            "incomeOver250k": "Average annual income around £48.8K",
+            "ethnicity": {},
+            "kids": "99% have kids in the household (336i)",
+            "gender": "51% Male (105i)",
+            "collegeGraduate": "Not specified",
+            "married": "90% in a relationship (149i)",
+            "ageDistribution": {
+              "Gen Z": "Younger parents at the start of family life",
+              "Millennials": "43% are 25–34 (267i)",
+              "Gen X": "34% are 35–44 (213i)",
+              "Boomers": "Limited presence"
+            }
+          },
+          "size": "3.4MM",
+          "market": "UK",
+          "personaQuotes": [
+            "I’m always looking for practical advice that makes parenting and hygiene easier for the whole family.",
+            "If a product is recommended by people I trust and fits our budget, I’ll try it—especially for my kids."
+          ],
+          "imageDescription": "A UK parent in a modern home juggling kids and work, with baby products, toothpaste, and mouthwash on the counter, browsing on a phone for parenting tips and product reviews, representing the Ortho Conscious Parents audience.",
+          "keyInfluencersIFollow": [
+            {
+              "platforms": [
+                "TikTok",
+                "Instagram"
+              ],
+              "index": 0,
+              "name": "The Ldn Family",
+              "handle": "@theladnfamily",
+              "followers": ""
+            },
+            {
+              "handle": "@father_of_daughters",
+              "name": "Father of Daughters",
+              "platforms": [
+                "TikTok",
+                "Instagram"
+              ],
+              "followers": "",
+              "index": 0
+            },
+            {
+              "followers": "",
+              "platforms": [
+                "Instagram",
+                "TikTok"
+              ],
+              "name": "Dani Dyer",
+              "index": 0,
+              "handle": "@danidyerxx"
+            }
+          ],
+          "omnichannel": {
+            "shared": [
+              "Shares and discusses parenting and product content on social media",
+              "Relatable parenting moments and hygiene tips in online communities",
+              "Word-of-mouth recommendations among parents"
+            ],
+            "paid": [
+              "Internet advertising",
+              "Newspaper ads",
+              "Radio ads",
+              "Podcast ads"
+            ],
+            "owned": [
+              "Ads in newspapers and magazines (26%, 313i)",
+              "Ads in podcasts improve perception of the brand (27%, 505i)",
+              "Brand and retailer content focused on parenting advice and routines"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "label": "China",
+      "key": "China",
+      "audiences": [
+        {
+          "description": "A 36.5MM audience of young, early-jobber Chinese consumers who are digitally savvy and socially engaged. Social Strivers (Solution Seekers) follow the latest trends, shop heavily online, and constantly seek ways to elevate their lifestyle and image. They embrace self-care and oral care as part of becoming their best selves, leaning into fun content, beauty, and influencer-led recommendations.",
+          "shoppingBehavior": {
+            "shoppingBehaviors": [
+              {
+                "text": "Early jobbers focused on career growth (#Earlyjobber)",
+                "index": 120
+              },
+              {
+                "text": "Social, digitally savvy, and always online (#Socialdigitalsavvy)",
+                "index": 150
+              },
+              {
+                "text": "Willing to try new products with quality (#Willingtotrynewthings)",
+                "index": 116
+              }
+            ],
+            "purchaseSources": {
+              "EC (Tmall/JD)": "57%",
+              "O2O Platform": "46%",
+              "Pharmacy Store": "20%",
+              "Short Video (Douyin)": "18%",
+              "Supermarket": "16%"
+            },
+            "purchaseInfluences": [
+              {
+                "index": 0,
+                "text": "Friends and family recommendations"
+              },
+              {
+                "index": 0,
+                "text": "Salesperson recommendations at point of sale"
+              }
+            ],
+            "topRetailers": [
+              {
+                "name": "EC (Tmall/JD)",
+                "index": 250
+              },
+              {
+                "name": "O2O Platform",
+                "index": 220
+              },
+              {
+                "name": "Pharmacy Store",
+                "index": 150
+              },
+              {
+                "name": "Short Video (Douyin)",
+                "index": 180
+              },
+              {
+                "name": "Supermarket",
+                "index": 160
+              }
+            ]
+          },
+          "interestsAndPropensities": {
+            "skincareConcerns": [
+              "Self-care and oral care as part of becoming their best selves",
+              "Interest in products with perceived quality and efficacy",
+              "Health and well-being is important (57%, 115i)"
+            ],
+            "entertainment": [
+              "Gathering with friends (138i)",
+              "Shopping as a social leisure activity (112i)",
+              "KTV (170i) and concerts (161i)",
+              "E-games (187i) and board games (154i)",
+              "Fun video content, beauty, ACG, and celebrity-driven content"
+            ],
+            "luxury": [
+              "Lifestyle upgrades through beauty, fashion, and personal care",
+              "Spending on experiences that enhance image and social presence"
+            ],
+            "travel": [
+              "Outdoor filming (134i)",
+              "Camping (116i)",
+              "Exploring urban and nearby destinations for content creation"
+            ],
+            "fitness": [
+              "Active social lifestyles that mix entertainment, gaming, and light outdoor activity",
+              "Attention to routines that support looking and feeling their best"
+            ]
+          },
+          "categoryBrandsIBuy": [
+            "Listerine",
+            "Colgate",
+            "NYSCPS",
+            "BOP",
+            "TheraBreath"
+          ],
+          "name": "POME: Social Strivers (Solution Seekers)",
+          "demographics": {
+            "incomeOver250k": "Annual income around $20K",
+            "ethnicity": {},
+            "kids": "Not specified; more likely pre-family or early family stage",
+            "gender": "51% Female",
+            "collegeGraduate": "Not specified, but skewing toward educated early-career professionals",
+            "married": "77% Single",
+            "ageDistribution": {
+              "Gen Z": "18–24 (18%)",
+              "Millennials": "25–29 (24%), 30–34 (19%)",
+              "Gen X": "Smaller share beyond mid-30s",
+              "Boomers": "Very limited presence"
+            }
+          },
+          "size": "36.5MM",
+          "market": "China",
+          "personaQuotes": [
+            "I value my career development and growth (59%, 120i).",
+            "I’m willing to try new products with quality (68%, 116i).",
+            "Health and well-being is important (57%, 115i)."
+          ],
+          "imageDescription": "A young Chinese professional in a modern apartment, browsing short video apps and e-commerce platforms on their phone, with beauty, oral care products, and lifestyle items on the desk, representing the Social Strivers POME audience.",
+          "keyInfluencersIFollow": [
+            {
+              "platforms": [
+                "TikTok",
+                "Rednote",
+                "BiliBili"
+              ],
+              "index": 0,
+              "name": "李蠕蠕",
+              "handle": "@李蠕蠕",
+              "followers": "TikTok 25.2MM; Rednote 3.6MM; BiliBili 3MM"
+            },
+            {
+              "handle": "@庞师不是师",
+              "name": "庞师不是师",
+              "platforms": [
+                "TikTok",
+                "Rednote",
+                "Kuaishou"
+              ],
+              "followers": "TikTok 3.8MM; Rednote 0.1MM; Kuaishou 0.3MM",
+              "index": 0
+            },
+            {
+              "followers": "TikTok 4.3MM; Rednote 0.7MM; Kuaishou 2.1MM",
+              "platforms": [
+                "TikTok",
+                "Rednote",
+                "Kuaishou"
+              ],
+              "name": "赵兮雪",
+              "index": 0,
+              "handle": "@赵兮雪"
+            }
+          ],
+          "omnichannel": {
+            "shared": [
+              "Friends and family recommendations around new products",
+              "Social sharing of fun videos, beauty, ACG, and celebrity content",
+              "Short video comments and engagement on Douyin"
+            ],
+            "paid": [
+              "Sponsorship and content IP integrations",
+              "KOL/KOC collaborations",
+              "Short video ads",
+              "Social search and promoted content"
+            ],
+            "owned": [
+              "Brand pop-up stores",
+              "Offline brand events",
+              "In-store activations and experiences"
+            ]
+          }
+        },
+        {
+          "description": "A 30.4MM audience of career-driven Chinese individuals who are pragmatic in their consumption. Health Fixers (Fresh Aspirers) favor supermarkets and e-commerce for personal care, making deliberate choices that prioritize brands and services delivering tangible wellness benefits. They seek professional advice, enjoy relaxing experiences, and aspire to live a healthy, more organic lifestyle.",
+          "shoppingBehavior": {
+            "shoppingBehaviors": [
+              {
+                "text": "Pragmatic achievers focused on results (#Pragmaticachievers)",
+                "index": 113
+              },
+              {
+                "text": "Wellness seekers who value relaxation and health (#Wellnessseekers)",
+                "index": 108
+              },
+              {
+                "text": "Seek product recommendations from experts (#Professionaladviceseeking)",
+                "index": 107
+              }
+            ],
+            "purchaseSources": {
+              "Supermarket": "43%",
+              "EC (Tmall/JD)": "42%",
+              "Club Stores (Freshippo/Sam's Club)": "22%",
+              "Short Video (Douyin)": "11%",
+              "CVS Store": "7%"
+            },
+            "purchaseInfluences": [
+              {
+                "index": 0,
+                "text": "Friends and family recommendations"
+              },
+              {
+                "index": 0,
+                "text": "Salesperson recommendations and in-store guidance"
+              },
+              {
+                "index": 107,
+                "text": "Products recommended by experts are usually trustworthy"
+              }
+            ],
+            "topRetailers": [
+              {
+                "name": "Supermarket",
+                "index": 210
+              },
+              {
+                "name": "EC (Tmall/JD)",
+                "index": 205
+              },
+              {
+                "name": "Club Stores (Freshippo/Sam's Club)",
+                "index": 180
+              },
+              {
+                "name": "Short Video (Douyin)",
+                "index": 140
+              },
+              {
+                "name": "CVS Store",
+                "index": 120
+              }
+            ]
+          },
+          "interestsAndPropensities": {
+            "skincareConcerns": [
+              "Products recommended by experts are usually trustworthy (43%, 107i)",
+              "Aspire to live an organic and healthy lifestyle (57%, 106i)",
+              "Care about tangible health and wellness benefits, including oral care"
+            ],
+            "entertainment": [
+              "Online videos including TV dramas (108i)",
+              "Variety shows (106i)",
+              "Movies (103i)",
+              "Short drama and product recommendation content"
+            ],
+            "luxury": [
+              "Enjoying products or services that help them relax (44%, 108i)",
+              "Upgrading personal care and wellness routines through trusted premium options"
+            ],
+            "travel": [
+              "Park visits (105i)",
+              "Camping (103i)",
+              "Theme park visits (102i)",
+              "Travel content and planning as a form of leisure inspiration"
+            ],
+            "fitness": [
+              "Jogging (104i)",
+              "Gym (103i)",
+              "Yoga (102i)",
+              "Wellness routines that support long-term health"
+            ]
+          },
+          "categoryBrandsIBuy": [
+            "Colgate",
+            "Listerine",
+            "NYSCPS",
+            "Darlie",
+            "BOP"
+          ],
+          "name": "POME: Health Fixers (Fresh Aspirers)",
+          "demographics": {
+            "incomeOver250k": "Annual income around $26K",
+            "ethnicity": {},
+            "kids": "63% have kids at home",
+            "gender": "52% Female",
+            "collegeGraduate": "Not specified, but skewing toward working professionals",
+            "married": "71% Married",
+            "ageDistribution": {
+              "Gen Z": "18–24 (14%)",
+              "Millennials": "25–29 (33%), 30–34 (29%)",
+              "Gen X": "Smaller share beyond mid-30s",
+              "Boomers": "Very limited presence"
+            }
+          },
+          "size": "30.4MM",
+          "market": "China",
+          "personaQuotes": [
+            "I hope to reach the pinnacle of my career (60%, 113i).",
+            "I am passionate about enjoying products or services that help me relax (44%, 108i).",
+            "Products recommended by experts are usually trustworthy (43%, 107i).",
+            "I aspire to live an organic and healthy lifestyle (57%, 106i)."
+          ],
+          "imageDescription": "A mid-career Chinese professional relaxing at home after work, browsing e-commerce and short video platforms for wellness and personal care products, with supermarket and club-store branded items on the table, representing the Health Fixers POME audience.",
+          "keyInfluencersIFollow": [
+            {
+              "platforms": [
+                "TikTok",
+                "Rednote",
+                "BiliBili"
+              ],
+              "index": 0,
+              "name": "李蠕蠕",
+              "handle": "@李蠕蠕",
+              "followers": "TikTok 25.2MM; Rednote 3.6MM; BiliBili 3MM"
+            },
+            {
+              "handle": "@房琪",
+              "name": "房琪",
+              "platforms": [
+                "TikTok",
+                "Rednote",
+                "Weibo"
+              ],
+              "followers": "TikTok 22.3MM; Rednote 3.2MM; Weibo 2.1MM",
+              "index": 0
+            },
+            {
+              "followers": "TikTok 3.5MM; Rednote 1MM; Kuaishou 1MM",
+              "platforms": [
+                "TikTok",
+                "Rednote",
+                "Kuaishou"
+              ],
+              "name": "姜十七",
+              "index": 0,
+              "handle": "@姜十七"
+            }
+          ],
+          "omnichannel": {
+            "shared": [
+              "Friends and family recommendations for wellness and personal care products",
+              "Online discussions about TV drama, short drama, and product recommendations",
+              "Social sharing of travel, park, and theme park experiences"
+            ],
+            "paid": [
+              "OTV (online TV) advertising",
+              "Social media ads",
+              "Celebrity-driven campaigns",
+              "OOH in office environments",
+              "LCD and OTT placements"
+            ],
+            "owned": [
+              "In-store experiences and guidance",
+              "Brand pop-up stores",
+              "Offline brand events focused on wellness and relaxation"
+            ]
+          }
+        }
+      ]
+    }
+
+
+  ]
+}
