@@ -516,10 +516,8 @@
             "collegeGraduate": "Not specified",
             "married": "70% in a relationship (104i)",
             "ageDistribution": {
-              "Gen Z": "17% are 15–24 (182i)",
-              "Millennials": "28% are 25–34 (173i)",
-              "Gen X": "Smaller share beyond 35",
-              "Boomers": "Limited presence"
+              "15-24": "17%",
+              "25-34": "28%"
             }
           },
           "size": "4.5MM",
@@ -690,10 +688,8 @@
             "collegeGraduate": "Not specified",
             "married": "90% in a relationship (149i)",
             "ageDistribution": {
-              "Gen Z": "Younger parents at the start of family life",
-              "Millennials": "43% are 25–34 (267i)",
-              "Gen X": "34% are 35–44 (213i)",
-              "Boomers": "Limited presence"
+              "25-34": "43%",
+              "35-44": "34%"
             }
           },
           "size": "3.4MM",
@@ -860,10 +856,9 @@
             "collegeGraduate": "Not specified, but skewing toward educated early-career professionals",
             "married": "77% Single",
             "ageDistribution": {
-              "Gen Z": "18–24 (18%)",
-              "Millennials": "25–29 (24%), 30–34 (19%)",
-              "Gen X": "Smaller share beyond mid-30s",
-              "Boomers": "Very limited presence"
+              "18-24": "18%",
+              "25-29": "24%",
+              "30-34": "19%"
             }
           },
           "size": "36.5MM",
@@ -1034,10 +1029,9 @@
             "collegeGraduate": "Not specified, but skewing toward working professionals",
             "married": "71% Married",
             "ageDistribution": {
-              "Gen Z": "18–24 (14%)",
-              "Millennials": "25–29 (33%), 30–34 (29%)",
-              "Gen X": "Smaller share beyond mid-30s",
-              "Boomers": "Very limited presence"
+              "18-24": "14%",
+              "25-29": "33%",
+              "30-34": "29%"
             }
           },
           "size": "30.4MM",
